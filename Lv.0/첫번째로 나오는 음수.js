@@ -3,4 +3,3 @@ function solution(num_list) {
 }
 
 console.log(solution([13, 22, 53, 24, 15, 6]))
-//
