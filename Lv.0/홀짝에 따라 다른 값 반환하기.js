@@ -5,13 +5,13 @@ function solution (n) {
         console.log(n)
         for (let i =1; i<=n; i++) {
             if (i%2 !==0) {
-                answer += i
+                answer += i;
             }
         }
     } else {
         for (let i =1; i<=n; i++) {
             if (i%2 ===0) {
-                answer += i**2
+                answer += i**2;
             }
         }
     }
