@@ -10,7 +10,7 @@ function solution(num_list) {
         }
     }
 
-    return parseInt(evenNum) + parseInt(oddNum)
+    return parseInt(evenNum) + parseInt(oddNum);
 }
 
 console.log(solution([3, 4, 5, 2, 1]))
